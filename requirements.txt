@@ -1,0 +1,6 @@
+vosk
+sounddevice
+pywin32
+numpy
+google-generativeai
+python-dotenv
